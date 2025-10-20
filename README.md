@@ -1,7 +1,7 @@
 # vahid-resume
 Professional CV Portfolio - Vahid Farajzadeh
-[Master's Transcript_Vahid Farajzadeh.pdf](https://github.com/user-attachments/files/23006978/Master.s.Transcript_Vahid.Farajzadeh.pdf)
-[Bachelor's Transcript_Vahid Farajzadeh.pdf](https://github.com/user-attachments/files/23006983/Bachelor.s.Transcript_Vahid.Farajzadeh.pdf)
+[Master's Transcript_Vahid Farajzadeh.pdf](https://github.com/user-attachments/files/23007472/Master.s.Transcript_Vahid.Farajzadeh.pdf)
+[Bachelor's Transcript_Vahid Farajzadeh.pdf](https://github.com/user-attachments/files/23007541/Bachelor.s.Transcript_Vahid.Farajzadeh.pdf)
 [paper _vahidfarajzadeh20@gmail.com.pdf](https://github.com/user-attachments/files/22663850/paper._vahidfarajzadeh20%40gmail.com.pdf)
 [Certificate_of_Presentation_Vahid_Farajzadeh.pdf](https://github.com/user-attachments/files/22671366/Certificate_of_Presentation_Vahid_Farajzadeh.pdf)
 [Data Mining Thesis_Vahid Farajzadeh.pdf](https://github.com/user-attachments/files/22664371/Data.Mining.Thesis_Vahid.Farajzadeh.pdf)
